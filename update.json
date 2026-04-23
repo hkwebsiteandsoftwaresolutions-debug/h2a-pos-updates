@@ -1,7 +1,7 @@
 {
-    "releaseNotes":  "v1.0.1 bug fixes:\n- Right-side checkout panel is now scrollable, so the Clear Cart, Print, Hold, Recall, Reprint and Return buttons stay reachable on smaller screens.\n- Receipts can now be printed on regular inkjet/laser printers (not only thermal ESC/POS). Switch to 'Standard Windows Printer' under Settings -> Printers -> Receipt Printer Type to stop jobs getting stuck in the print queue.",
+    "releaseNotes":  "Version 1.0.2 release",
     "isMandatory":  false,
-    "releaseDate":  "2026-04-23T16:33:57Z",
-    "version":  "1.0.1",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v1.0.1/H2A_POS.exe"
+    "releaseDate":  "2026-04-23T18:05:35Z",
+    "version":  "1.0.2",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v1.0.2/H2A_POS.exe"
 }
