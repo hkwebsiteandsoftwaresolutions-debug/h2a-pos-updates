@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.0",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.0.0/H2A_POS.exe",
-    "releaseNotes":  "Version 2.0.0 release",
+    "version":  "2.0.1",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.0.1/H2A_POS.exe",
+    "releaseNotes":  "Version 2.0.1 release",
     "isMandatory":  false,
-    "releaseDate":  "2026-05-03T15:15:27Z",
-    "sha256":  "A51EECB116B50D178D6CB718988DAF875972B9AD33B0B2760FFB6C10C43466C3"
+    "releaseDate":  "2026-05-03T15:45:37Z",
+    "sha256":  "A142B0877D9A1148C785DF47017E45F6B06F0DA0807689E649F820AE29220CCC"
 }
