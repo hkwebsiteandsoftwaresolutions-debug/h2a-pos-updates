@@ -1,7 +1,7 @@
 {
-    "releaseNotes":  "Realised/Unrealised GP split, refund netting, Other Income/Expense + P\u0026L (v1.0.4)",
+    "releaseNotes":  "Realised/Unrealised GP split, refund netting, Other Income/Expense + P\u0026L",
     "isMandatory":  false,
-    "releaseDate":  "2026-07-12T13:42:22Z",
-    "version":  "1.0.4",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v1.0.4/H2A_POS.exe"
+    "releaseDate":  "2026-07-12T13:59:51Z",
+    "version":  "2.0.2",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.0.2/H2A_POS.exe"
 }
