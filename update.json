@@ -1,7 +1,8 @@
 {
-    "releaseNotes":  "Realised/Unrealised GP split, refund netting, Other Income/Expense + P\u0026L",
-    "isMandatory":  false,
-    "releaseDate":  "2026-07-12T13:59:51Z",
-    "version":  "2.0.2",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.0.2/H2A_POS.exe"
+    "sha256":  "CBAAF1EDAC68B10E173CDEB9DC1E1A4FC97B3CC8F6DF19C07FCBB034714E3C2A",
+    "version":  "2.0.3",
+    "releaseNotes":  "Auto-update SHA-256 integrity check (fail closed). Realised/Unrealised GP, Other Income/Expense + P\u0026L.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.0.3/H2A_POS.exe",
+    "releaseDate":  "2026-07-12T20:16:45Z",
+    "isMandatory":  false
 }
