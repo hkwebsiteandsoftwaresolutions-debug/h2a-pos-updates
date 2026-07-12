@@ -1,8 +1,8 @@
 {
-    "sha256":  "CBAAF1EDAC68B10E173CDEB9DC1E1A4FC97B3CC8F6DF19C07FCBB034714E3C2A",
-    "version":  "2.0.3",
-    "releaseNotes":  "Auto-update SHA-256 integrity check (fail closed). Realised/Unrealised GP, Other Income/Expense + P\u0026L.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.0.3/H2A_POS.exe",
-    "releaseDate":  "2026-07-12T20:16:45Z",
+    "sha256":  "ABCA84FE4911EBB60FCDE43E84F3F5EB238AA94F1B18D3ED2A9A7947FB1BB7DF",
+    "version":  "2.1.0",
+    "releaseNotes":  "Calendar-year P&L (Jan–Dec) with comparative periods, OIE correction audit trail, export/print, manage heads, cache-aware tab refresh.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.1.0/H2A_POS.exe",
+    "releaseDate":  "2026-07-12T22:38:06Z",
     "isMandatory":  false
 }
