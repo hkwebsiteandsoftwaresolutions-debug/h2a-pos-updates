@@ -1,8 +1,8 @@
-{
-    "sha256":  "ABCA84FE4911EBB60FCDE43E84F3F5EB238AA94F1B18D3ED2A9A7947FB1BB7DF",
-    "version":  "2.1.0",
-    "releaseNotes":  "Calendar-year P&L (Jan–Dec) with comparative periods, OIE correction audit trail, export/print, manage heads, cache-aware tab refresh.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.1.0/H2A_POS.exe",
-    "releaseDate":  "2026-07-12T22:38:06Z",
+﻿{
+    "sha256":  "479E1CA29567EA460970AA1100B16913CBF4BCDA61E75F44A5875113E9F4B7E7",
+    "version":  "2.2.0",
+    "releaseNotes":  "Version 2.2.0 release",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.0/H2A_POS.exe",
+    "releaseDate":  "2026-07-13T01:15:54Z",
     "isMandatory":  false
 }
