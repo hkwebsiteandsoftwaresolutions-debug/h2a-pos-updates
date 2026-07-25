@@ -1,8 +1,8 @@
 {
-    "sha256":  "56225A87DC8A76529F2065B3824083B1C1691DAE91DB4EEE85099CF93E252BD0",
-    "version":  "2.2.7",
-    "releaseNotes":  "Version 2.2.7 release",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.7/H2A_POS.exe",
-    "releaseDate":  "2026-07-25T15:13:36Z",
+    "sha256":  "D85A15E68368934615DAD5A3445DF1AF7306FFCE838CBFA45BDBCAE15CD20449",
+    "version":  "2.2.8",
+    "releaseNotes":  "Fix inverted Missing FIFO lots badge; persist FifoLotCount locally; fix Retired badge visibility; Inventory permanent delete with lot cascade.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.8/H2A_POS.exe",
+    "releaseDate":  "2026-07-25T22:05:42Z",
     "isMandatory":  false
 }
