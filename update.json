@@ -1,8 +1,8 @@
 {
-    "sha256":  "82E17858633FCAEB2716FF434DC0399A5DA77D97B0A06005492A89966AB899DA",
-    "version":  "2.2.9",
-    "releaseNotes":  "Fix Manage Heads crash in Other Income & Expense (dialog owner when hosted in Admin).",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.9/H2A_POS.exe",
-    "releaseDate":  "2026-07-26T11:25:48Z",
+    "sha256":  "42AF8D841CD4669F0854D571DB191887F75C990D24229DA382E7E6BD7CDB7192",
+    "version":  "2.2.10",
+    "releaseNotes":  "Polish Other Income & Expense: softer entry card, color-coded type/status, PKR amounts, amber edit banner.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.10/H2A_POS.exe",
+    "releaseDate":  "2026-07-26T06:44:06Z",
     "isMandatory":  false
 }
