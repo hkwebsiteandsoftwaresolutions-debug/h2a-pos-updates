@@ -1,8 +1,8 @@
 {
-    "sha256":  "42AF8D841CD4669F0854D571DB191887F75C990D24229DA382E7E6BD7CDB7192",
-    "version":  "2.2.10",
-    "releaseNotes":  "Polish Other Income & Expense: softer entry card, color-coded type/status, PKR amounts, amber edit banner.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.10/H2A_POS.exe",
-    "releaseDate":  "2026-07-26T06:44:06Z",
+    "sha256":  "BAB938A07482264F0282E6B7B80AEBBE7EECA3B0A7E010D47616C2C273831A1F",
+    "version":  "2.2.11",
+    "releaseNotes":  "Auto-update: install to LocalAppData (no UAC), migrate off Program Files, UI-thread update check, and failed-copy rollback with explicit errors.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.11/H2A_POS.exe",
+    "releaseDate":  "2026-07-26T12:48:04Z",
     "isMandatory":  false
 }
