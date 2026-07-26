@@ -1,8 +1,8 @@
 {
-    "sha256":  "8C2876E54ABAC5757F01D1086B2D96EA2AF82ED162579E3C2CA7EAB1E19EDE47",
-    "version":  "2.2.12",
-    "releaseNotes":  "Inventory Update: remove Set/Add/Remove stock from Edit Product; stock stays read-only and FIFO changes go through Cost Lots / PO Receive / Stock Take.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.12/H2A_POS.exe",
-    "releaseDate":  "2026-07-26T13:24:46Z",
+    "sha256":  "32C11E6204E90B8984BCDA9388D63E13F184FD4C2E12400BECC917552F20BC61",
+    "version":  "2.2.13",
+    "releaseNotes":  "FIFO lot-aware inventory valuation, Manual costPrice lock when lots remain, and Health Check FIFOFallback event monitor (last 30 days).",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.13/H2A_POS.exe",
+    "releaseDate":  "2026-07-26T16:29:12Z",
     "isMandatory":  false
 }
