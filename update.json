@@ -1,8 +1,8 @@
 {
-    "sha256":  "D85A15E68368934615DAD5A3445DF1AF7306FFCE838CBFA45BDBCAE15CD20449",
-    "version":  "2.2.8",
-    "releaseNotes":  "Fix inverted Missing FIFO lots badge; persist FifoLotCount locally; fix Retired badge visibility; Inventory permanent delete with lot cascade.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.8/H2A_POS.exe",
-    "releaseDate":  "2026-07-25T22:05:42Z",
+    "sha256":  "82E17858633FCAEB2716FF434DC0399A5DA77D97B0A06005492A89966AB899DA",
+    "version":  "2.2.9",
+    "releaseNotes":  "Fix Manage Heads crash in Other Income & Expense (dialog owner when hosted in Admin).",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.9/H2A_POS.exe",
+    "releaseDate":  "2026-07-26T11:25:48Z",
     "isMandatory":  false
 }
