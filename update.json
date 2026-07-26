@@ -1,8 +1,8 @@
 {
-    "sha256":  "BAB938A07482264F0282E6B7B80AEBBE7EECA3B0A7E010D47616C2C273831A1F",
-    "version":  "2.2.11",
-    "releaseNotes":  "Auto-update: install to LocalAppData (no UAC), migrate off Program Files, UI-thread update check, and failed-copy rollback with explicit errors.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.11/H2A_POS.exe",
-    "releaseDate":  "2026-07-26T12:48:04Z",
+    "sha256":  "8C2876E54ABAC5757F01D1086B2D96EA2AF82ED162579E3C2CA7EAB1E19EDE47",
+    "version":  "2.2.12",
+    "releaseNotes":  "Inventory Update: remove Set/Add/Remove stock from Edit Product; stock stays read-only and FIFO changes go through Cost Lots / PO Receive / Stock Take.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.12/H2A_POS.exe",
+    "releaseDate":  "2026-07-26T13:24:46Z",
     "isMandatory":  false
 }
