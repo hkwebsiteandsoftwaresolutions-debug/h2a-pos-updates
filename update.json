@@ -1,8 +1,8 @@
-{
-    "sha256":  "32C11E6204E90B8984BCDA9388D63E13F184FD4C2E12400BECC917552F20BC61",
-    "version":  "2.2.13",
-    "releaseNotes":  "FIFO lot-aware inventory valuation, Manual costPrice lock when lots remain, and Health Check FIFOFallback event monitor (last 30 days).",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.13/H2A_POS.exe",
-    "releaseDate":  "2026-07-26T16:29:12Z",
+﻿{
+    "sha256":  "A30A4A8DF53C672628397FFAA9B9AC676C8E471A377FEB7B597743C30D2551E4",
+    "version":  "2.2.14",
+    "releaseNotes":  "Global SubCategory (company) support, multi-main products, Inventory Reports company grouping. Costing unchanged.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.14/H2A_POS.exe",
+    "releaseDate":  "2026-08-05T11:31:13Z",
     "isMandatory":  false
 }
