@@ -1,8 +1,8 @@
 ﻿{
-    "sha256":  "A30A4A8DF53C672628397FFAA9B9AC676C8E471A377FEB7B597743C30D2551E4",
-    "version":  "2.2.14",
-    "releaseNotes":  "Global SubCategory (company) support, multi-main products, Inventory Reports company grouping. Costing unchanged.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.14/H2A_POS.exe",
-    "releaseDate":  "2026-08-05T11:31:13Z",
+    "sha256":  "C0047E837F203C7D99497CBC75AF7F206E4C5877ECEFB2C31E88B9705D35B701",
+    "version":  "2.2.15",
+    "releaseNotes":  "Version 2.2.15 release",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.15/H2A_POS.exe",
+    "releaseDate":  "2026-08-05T23:15:27Z",
     "isMandatory":  false
 }
