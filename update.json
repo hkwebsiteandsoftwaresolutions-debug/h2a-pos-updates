@@ -1,8 +1,8 @@
 ﻿{
     "sha256":  "C224D683D8145F78544FD872CFAE6267C39FD12A1E2788D88B6FB37EDB0B51F7",
     "version":  "2.2.17",
-    "releaseNotes":  "Version 2.2.17 — Track C/D till surfaces (tax OFF)",
+    "releaseNotes":  "Version 2.2.17 release",
     "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.17/H2A_POS.exe",
-    "releaseDate":  "2026-08-06T16:40:30Z",
+    "releaseDate":  "2026-08-06T13:38:35Z",
     "isMandatory":  false
 }
