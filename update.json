@@ -1,8 +1,8 @@
 {
-  "sha256": "06BFF3CCEAE7700B5C44B06DF32B96A3C2733AD1333CB56F2ECCC51CB4C03C5C",
-  "releaseNotes": "Version 2.2.21 release",
+  "releaseDate": "2026-09-08T17:58:09Z",
   "isMandatory": false,
-  "releaseDate": "2026-08-31T06:34:54Z",
-  "version": "2.2.21",
-  "downloadUrl": "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.21/H2A_POS.exe"
+  "version": "2.2.22",
+  "sha256": "1EF3AC6AA9E398E1BA1C338A2BC0BBE5C9E2DBE03C107183A15E1EBAAE7D2E80",
+  "downloadUrl": "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.22/H2A_POS.exe",
+  "releaseNotes": "Website order compatibility, missing-product restock safety, reporting-period and costing fixes. Existing local settings are preserved."
 }
