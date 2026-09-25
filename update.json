@@ -1,8 +1,8 @@
 {
-  "releaseDate": "2026-09-08T17:58:09Z",
+  "version": "2.2.23",
+  "downloadUrl": "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.23/H2A_POS.exe",
+  "releaseNotes": "POS workflow fixes, reconciled shift sales and close exceptions, and batched device activity logging. Existing local settings are preserved.",
   "isMandatory": false,
-  "version": "2.2.22",
-  "sha256": "1EF3AC6AA9E398E1BA1C338A2BC0BBE5C9E2DBE03C107183A15E1EBAAE7D2E80",
-  "downloadUrl": "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.22/H2A_POS.exe",
-  "releaseNotes": "Website order compatibility, missing-product restock safety, reporting-period and costing fixes. Existing local settings are preserved."
+  "releaseDate": "2026-09-25T05:43:31Z",
+  "sha256": "18A5995978AF4F750C93533AF3F36D817FA16223FACBA345D536DC22F5421B81"
 }
