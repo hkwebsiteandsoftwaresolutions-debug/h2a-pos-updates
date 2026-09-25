@@ -1,8 +1,9 @@
-{
-  "version": "2.2.23",
-  "downloadUrl": "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.23/H2A_POS.exe",
-  "releaseNotes": "POS workflow fixes, reconciled shift sales and close exceptions, and batched device activity logging. Existing local settings are preserved.",
-  "isMandatory": false,
-  "releaseDate": "2026-09-25T05:43:31Z",
-  "sha256": "18A5995978AF4F750C93533AF3F36D817FA16223FACBA345D536DC22F5421B81"
+﻿{
+    "sha256":  "F25999B125FB4E5E4D1E87763A532A65593805972B18F4CF6B872F89BAF09ECA",
+    "version":  "2.2.24",
+    "releaseNotes":  "Adds an Updates tab with manager approval, open-shift protection, local history, and detailed recovery logs.",
+    "description":  "Adds an Updates tab with manager approval, open-shift protection, local history, and detailed recovery logs.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.24/H2A_POS.exe",
+    "releaseDate":  "2026-09-25T08:16:07Z",
+    "isMandatory":  false
 }
