@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "469B58B4A2F7DC300234382363B9A7E55140C8A15883CF0897427C7C28B2A796",
-    "version":  "2.2.25",
-    "releaseNotes":  "Makes product Cost Price read-only in FIFO mode while keeping FIFO lot unit costs editable. Prevents old manual cost drafts from overriding lot-managed cost.",
-    "description":  "Makes product Cost Price read-only in FIFO mode while keeping FIFO lot unit costs editable. Prevents old manual cost drafts from overriding lot-managed cost.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.25/H2A_POS.exe",
-    "releaseDate":  "2026-09-29T11:37:06Z",
+    "sha256":  "51F163B5EC0F94FDFE618563A2A08DCCBA21CFEAA280E50F92607451FEAF0D10",
+    "version":  "2.2.26",
+    "releaseNotes":  "Update download progress, verified completion notice, and install after shift close.",
+    "description":  "Update download progress, verified completion notice, and install after shift close.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.26/H2A_POS.exe",
+    "releaseDate":  "2026-10-22T12:20:59Z",
     "isMandatory":  false
 }
