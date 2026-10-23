@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "3EE2D72B8641834610DA83FE0BE9E36E3434C0004A5677AAB1EEB3692B350DC6",
-    "version":  "2.2.27",
-    "releaseNotes":  "Edit Products: lot change previews, optional cost price and WAC resync from the lots, Details and Stock tabs, and a clearer lots layout.",
-    "description":  "Edit Products: lot change previews, optional cost price and WAC resync from the lots, Details and Stock tabs, and a clearer lots layout.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.27/H2A_POS.exe",
-    "releaseDate":  "2026-10-23T03:22:48Z",
+    "sha256":  "EDDAF1A1B945E01D968541762F0DCD816278B0C7C2D96777C1B6D36BFCED95EB",
+    "version":  "2.2.28",
+    "releaseNotes":  "Edit Products: write off lot units that have no stock, picking the lots on screen, with a preview and one ledger row per lot.",
+    "description":  "Edit Products: write off lot units that have no stock, picking the lots on screen, with a preview and one ledger row per lot.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.28/H2A_POS.exe",
+    "releaseDate":  "2026-10-23T10:05:34Z",
     "isMandatory":  false
 }
