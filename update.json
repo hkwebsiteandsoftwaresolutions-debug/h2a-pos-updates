@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "51F163B5EC0F94FDFE618563A2A08DCCBA21CFEAA280E50F92607451FEAF0D10",
-    "version":  "2.2.26",
-    "releaseNotes":  "Update download progress, verified completion notice, and install after shift close.",
-    "description":  "Update download progress, verified completion notice, and install after shift close.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.26/H2A_POS.exe",
-    "releaseDate":  "2026-10-22T12:20:59Z",
+    "sha256":  "3EE2D72B8641834610DA83FE0BE9E36E3434C0004A5677AAB1EEB3692B350DC6",
+    "version":  "2.2.27",
+    "releaseNotes":  "Edit Products: lot change previews, optional cost price and WAC resync from the lots, Details and Stock tabs, and a clearer lots layout.",
+    "description":  "Edit Products: lot change previews, optional cost price and WAC resync from the lots, Details and Stock tabs, and a clearer lots layout.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.27/H2A_POS.exe",
+    "releaseDate":  "2026-10-23T03:22:48Z",
     "isMandatory":  false
 }
