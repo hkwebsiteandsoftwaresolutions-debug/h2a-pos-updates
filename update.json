@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "2C2950E2D5A7A3C13F42F9D3C84CA95644AD72799DC4BCB10A50704F786C0FE2",
-    "version":  "2.2.29",
-    "releaseNotes":  "Update install: waits for every H2A POS window to close, retries the file copy, and says the installed version is unchanged when a copy fails.",
-    "description":  "Update install: waits for every H2A POS window to close, retries the file copy, and says the installed version is unchanged when a copy fails.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.29/H2A_POS.exe",
-    "releaseDate":  "2026-10-23T18:22:04Z",
+    "sha256":  "0CFB121BEAE1123721EB409A66D17228F1CA16F44C518DEAEE0C5C159B04E0A8",
+    "version":  "2.2.30",
+    "releaseNotes":  "New sale screen: one scan and search field, clearer checkout with Charge always in view, PKR or % discount, line editor, price check, pinned products, Ctrl+L lock, subtle glass look.",
+    "description":  "New sale screen: one scan and search field, clearer checkout with Charge always in view, PKR or % discount, line editor, price check, pinned products, Ctrl+L lock, subtle glass look.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.30/H2A_POS.exe",
+    "releaseDate":  "2026-10-24T03:29:50Z",
     "isMandatory":  false
 }
