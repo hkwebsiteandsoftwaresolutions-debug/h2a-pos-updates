@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "09C304B27E03483BE4C01A1B642FE16FC26D209549D6C38D6729F7CF50105F9B",
-    "version":  "2.2.31",
-    "releaseNotes":  "Stock take fix: sales during a count are no longer subtracted twice. Scan and Count entry, autosave, Cancel Take. Labels use the saved printer. Zero-cost and double-save checks.",
-    "description":  "Stock take fix: sales during a count are no longer subtracted twice. Scan and Count entry, autosave, Cancel Take. Labels use the saved printer. Zero-cost and double-save checks.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.31/H2A_POS.exe",
-    "releaseDate":  "2026-11-01T09:33:01Z",
+    "sha256":  "DC9D691B3006C353DF44DC13299AAA6ADD43D1558B03388C8E11A1CC87CD20B7",
+    "version":  "2.2.32",
+    "releaseNotes":  "Settings safety: saves change only what you edit, printers stay as saved, regions come from the web admin, sales use the signed-in name, unsaved-changes guard, clearer offline messages.",
+    "description":  "Settings safety: saves change only what you edit, printers stay as saved, regions come from the web admin, sales use the signed-in name, unsaved-changes guard, clearer offline messages.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.32/H2A_POS.exe",
+    "releaseDate":  "2026-11-01T10:57:07Z",
     "isMandatory":  false
 }
