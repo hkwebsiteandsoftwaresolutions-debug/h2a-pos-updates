@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "0CFB121BEAE1123721EB409A66D17228F1CA16F44C518DEAEE0C5C159B04E0A8",
-    "version":  "2.2.30",
-    "releaseNotes":  "New sale screen: one scan and search field, clearer checkout with Charge always in view, PKR or % discount, line editor, price check, pinned products, Ctrl+L lock, subtle glass look.",
-    "description":  "New sale screen: one scan and search field, clearer checkout with Charge always in view, PKR or % discount, line editor, price check, pinned products, Ctrl+L lock, subtle glass look.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.30/H2A_POS.exe",
-    "releaseDate":  "2026-10-24T03:29:50Z",
+    "sha256":  "09C304B27E03483BE4C01A1B642FE16FC26D209549D6C38D6729F7CF50105F9B",
+    "version":  "2.2.31",
+    "releaseNotes":  "Stock take fix: sales during a count are no longer subtracted twice. Scan and Count entry, autosave, Cancel Take. Labels use the saved printer. Zero-cost and double-save checks.",
+    "description":  "Stock take fix: sales during a count are no longer subtracted twice. Scan and Count entry, autosave, Cancel Take. Labels use the saved printer. Zero-cost and double-save checks.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.31/H2A_POS.exe",
+    "releaseDate":  "2026-11-01T09:33:01Z",
     "isMandatory":  false
 }
