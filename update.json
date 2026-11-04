@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "DC9D691B3006C353DF44DC13299AAA6ADD43D1558B03388C8E11A1CC87CD20B7",
-    "version":  "2.2.32",
-    "releaseNotes":  "Settings safety: saves change only what you edit, printers stay as saved, regions come from the web admin, sales use the signed-in name, unsaved-changes guard, clearer offline messages.",
-    "description":  "Settings safety: saves change only what you edit, printers stay as saved, regions come from the web admin, sales use the signed-in name, unsaved-changes guard, clearer offline messages.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.32/H2A_POS.exe",
-    "releaseDate":  "2026-11-01T10:57:07Z",
+    "sha256":  "9A81158A961BFE4FC1E8D8C143062094D48B7C19F9DCD830D121C76DFCCC13D7",
+    "version":  "2.2.35",
+    "releaseNotes":  "Back Office in one window, Settings grouped by who a change affects, stock losses in Profit and Loss, stock takes keep cost lots in step, sharper labels for long SKUs, labels after receiving.",
+    "description":  "Back Office in one window, Settings grouped by who a change affects, stock losses in Profit and Loss, stock takes keep cost lots in step, sharper labels for long SKUs, labels after receiving.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.35/H2A_POS.exe",
+    "releaseDate":  "2026-11-04T01:58:01Z",
     "isMandatory":  false
 }
