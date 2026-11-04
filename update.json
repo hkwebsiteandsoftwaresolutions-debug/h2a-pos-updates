@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "9A81158A961BFE4FC1E8D8C143062094D48B7C19F9DCD830D121C76DFCCC13D7",
-    "version":  "2.2.35",
-    "releaseNotes":  "Back Office in one window, Settings grouped by who a change affects, stock losses in Profit and Loss, stock takes keep cost lots in step, sharper labels for long SKUs, labels after receiving.",
-    "description":  "Back Office in one window, Settings grouped by who a change affects, stock losses in Profit and Loss, stock takes keep cost lots in step, sharper labels for long SKUs, labels after receiving.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.35/H2A_POS.exe",
-    "releaseDate":  "2026-11-04T01:58:01Z",
+    "sha256":  "DAD5A261E8B8D6D756A42055D8B0C6742D85D0DA151731BA4DBEA752C9F7ABE3",
+    "version":  "2.2.36",
+    "releaseNotes":  "Edit Products in Back Office: Save goes live, prices after discount, website changes held, full product list, bulk edit and history. Overview shows product totals.",
+    "description":  "Edit Products in Back Office: Save goes live, prices after discount, website changes held, full product list, bulk edit and history. Overview shows product totals.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.36/H2A_POS.exe",
+    "releaseDate":  "2026-11-04T07:33:46Z",
     "isMandatory":  false
 }
