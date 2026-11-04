@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "DAD5A261E8B8D6D756A42055D8B0C6742D85D0DA151731BA4DBEA752C9F7ABE3",
-    "version":  "2.2.36",
-    "releaseNotes":  "Edit Products in Back Office: Save goes live, prices after discount, website changes held, full product list, bulk edit and history. Overview shows product totals.",
-    "description":  "Edit Products in Back Office: Save goes live, prices after discount, website changes held, full product list, bulk edit and history. Overview shows product totals.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.36/H2A_POS.exe",
-    "releaseDate":  "2026-11-04T07:33:46Z",
+    "sha256":  "32008C6039EA927FC347F52336804B53153BCF77D1DE87A4E312D275481D5C84",
+    "version":  "2.2.37",
+    "releaseNotes":  "Edit Products is easier on the eye: one field style, a narrower form, quiet tick boxes, softer filter chips, and amber stock only for products that need reordering.",
+    "description":  "Edit Products is easier on the eye: one field style, a narrower form, quiet tick boxes, softer filter chips, and amber stock only for products that need reordering.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.37/H2A_POS.exe",
+    "releaseDate":  "2026-11-04T08:07:17Z",
     "isMandatory":  false
 }
