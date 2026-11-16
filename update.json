@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "32008C6039EA927FC347F52336804B53153BCF77D1DE87A4E312D275481D5C84",
-    "version":  "2.2.37",
-    "releaseNotes":  "Edit Products is easier on the eye: one field style, a narrower form, quiet tick boxes, softer filter chips, and amber stock only for products that need reordering.",
-    "description":  "Edit Products is easier on the eye: one field style, a narrower form, quiet tick boxes, softer filter chips, and amber stock only for products that need reordering.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.37/H2A_POS.exe",
-    "releaseDate":  "2026-11-04T08:07:17Z",
+    "sha256":  "59AB429B272E62920EB12DF7ADE8A62B99BC81C95A7672389E5B8908CBE20171",
+    "version":  "2.2.38",
+    "releaseNotes":  "Split a sale between cash, card and account; refunds go back the way they were paid; personal accounts and payments at the till; cash in and out; a Payments report.",
+    "description":  "Split a sale between cash, card and account; refunds go back the way they were paid; personal accounts and payments at the till; cash in and out; a Payments report.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.38/H2A_POS.exe",
+    "releaseDate":  "2026-11-16T19:52:56Z",
     "isMandatory":  false
 }
