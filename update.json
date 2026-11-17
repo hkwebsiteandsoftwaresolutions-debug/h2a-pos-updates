@@ -1,9 +1,9 @@
 ﻿{
-    "sha256":  "59AB429B272E62920EB12DF7ADE8A62B99BC81C95A7672389E5B8908CBE20171",
-    "version":  "2.2.38",
-    "releaseNotes":  "Split a sale between cash, card and account; refunds go back the way they were paid; personal accounts and payments at the till; cash in and out; a Payments report.",
-    "description":  "Split a sale between cash, card and account; refunds go back the way they were paid; personal accounts and payments at the till; cash in and out; a Payments report.",
-    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.38/H2A_POS.exe",
-    "releaseDate":  "2026-11-16T19:52:56Z",
+    "sha256":  "4DADB6EB8F480C338AD891014E99080DE70FB5CFFE3E62ADA05073FA47C91468",
+    "version":  "2.2.39",
+    "releaseNotes":  "Back Office has a Personal accounts list: who owes what, who is overdue, and Take payment for any account.",
+    "description":  "Back Office has a Personal accounts list: who owes what, who is overdue, and Take payment for any account.",
+    "downloadUrl":  "https://github.com/hkwebsiteandsoftwaresolutions-debug/h2a-pos-updates/releases/download/v2.2.39/H2A_POS.exe",
+    "releaseDate":  "2026-11-17T05:54:59Z",
     "isMandatory":  false
 }
